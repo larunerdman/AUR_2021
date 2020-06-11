@@ -27,22 +27,36 @@ Pre-work including programs to install and practice exercises can be found [here
 
 # Class Photo
 
-
-
 ***
+
+## Welcome
+
+*<font color="#827e9c">Rachade Hmamouchi</font>*
 
 # Day 1 <a id="day1"></a>
 
 
+*<font color="#827e9c">Lauren Erdman</font>*
 
+[Lecture] 
 
+*<font color="#827e9c">Gabriela Morgenshtern</font>* 
+
+[Lecture_Shiny]
 
 ## Integrated Assignment
 
+[Shiny_starter.R]
+
+[Shiny_basics_assignemt.R]
 
 
 
 # Day 2 <a id="day2"></a>
+
+
+*<font color="#827e9c">Lauren Erdman</font>*
+
 
 
 
