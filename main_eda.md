@@ -49,7 +49,10 @@ Pre-work including programs to install and practice exercises can be found [here
 ## Exercices
 
 [Example_Data1](https://drive.google.com/open?id=12-Fsohyu9lGBbV0dM4DILrpDTO_AIgnQ)
+
 [Example_Data1.2](https://drive.google.com/open?id=1mDTFA3dwVDq_mMIg1-s2QufE2wPTcmer)
+
+[Example.Data1.3](https://drive.google.com/open?id=1A0ifJ7s_3tQZ_Hxb5nMLAtDgFyTHNiXH)
 
 
 ## Integrated Assignment
