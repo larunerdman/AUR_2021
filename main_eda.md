@@ -38,18 +38,19 @@ Pre-work including programs to install and practice exercises can be found [here
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Lecture] 
+[Lecture](https://drive.google.com/open?id=1E4U77cbJUzAc35TJAsxmSlq3SItsWjBw)
 
 *<font color="#827e9c">Gabriela Morgenshtern</font>* 
 
-[Lecture_Shiny]
+[Lecture_Shiny](https://drive.google.com/open?id=1emyJV7xqQVi0O5ryoM2Lm7W2M_w6zGJi)
 
 ## Integrated Assignment
 
-[Shiny_starter.R]
+[Shiny_starter.R](https://drive.google.com/open?id=1Vyy8Ve4SilqUL8KQi67JVMUJ0sy5684j)
 
-[Shiny_basics_assignemt.R]
+[Shiny_basics_assignemt.R](https://drive.google.com/open?id=1JyXPUDo2fwhfVOuZMH0C0o1-NwoQuEAL)
 
+[Data](https://drive.google.com/open?id=1Vyy8Ve4SilqUL8KQi67JVMUJ0sy5684j)
 
 
 # Day 2 <a id="day2"></a>
