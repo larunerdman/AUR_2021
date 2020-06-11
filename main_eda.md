@@ -40,6 +40,8 @@ Pre-work including programs to install and practice exercises can be found [here
 
 [Lecture](https://drive.google.com/open?id=1E4U77cbJUzAc35TJAsxmSlq3SItsWjBw)
 
+[Google_Doc_Glossary](https://docs.google.com/document/d/1UEHZ7Vwk1ygr2xjYFwv_p9sRxXev_--VaIcX7RAW1AM/edit?pli=1)
+
 *<font color="#827e9c">Gabriela Morgenshtern</font>* 
 
 [Lecture_Shiny](https://drive.google.com/open?id=1emyJV7xqQVi0O5ryoM2Lm7W2M_w6zGJi)
