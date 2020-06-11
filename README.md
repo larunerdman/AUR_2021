@@ -1,3 +1,3 @@
-# EDA_2019
+# EDA_2020
 
-Read me file for EDA 2019
+Read me file for EDA 2020
