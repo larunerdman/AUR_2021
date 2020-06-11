@@ -44,6 +44,12 @@ Pre-work including programs to install and practice exercises can be found [here
 
 [Lecture_Shiny](https://drive.google.com/open?id=1emyJV7xqQVi0O5ryoM2Lm7W2M_w6zGJi)
 
+## Exercices
+
+[Example_Data1](https://drive.google.com/open?id=12-Fsohyu9lGBbV0dM4DILrpDTO_AIgnQ)
+[Example_Data1.2](https://drive.google.com/open?id=1mDTFA3dwVDq_mMIg1-s2QufE2wPTcmer)
+
+
 ## Integrated Assignment
 
 [Shiny_starter.R](https://drive.google.com/open?id=1Vyy8Ve4SilqUL8KQi67JVMUJ0sy5684j)
