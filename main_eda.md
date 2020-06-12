@@ -78,6 +78,6 @@ Pre-work including programs to install and practice exercises can be found [here
 
 ## Survey
 
-
+[Please take 2 min of your time :)](https://forms.gle/3ybJDvMtAsz4WqX4A)
 
 
