@@ -69,8 +69,12 @@ Pre-work including programs to install and practice exercises can be found [here
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
+[Lecture Clustering](https://drive.google.com/open?id=1wUdtUaJXdH-p9CsmT7r5TNfHQ_7TzCcR)
+
+[Lecture Dimention](https://drive.google.com/open?id=1wUdtUaJXdH-p9CsmT7r5TNfHQ_7TzCcR)
 
 
+## Exercices
 
 ## Survey
 
