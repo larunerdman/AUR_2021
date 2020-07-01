@@ -33,3 +33,8 @@ home: https://bioinformaticsdotca.github.io/eda_2020
 Introductory tutorial to R: http://steipe.biochemistry.utoronto.ca/abc/index.php/R_tutorial  
  
 R cheatsheet : https://www.rstudio.com/wp-content/uploads/2019/01/Cheatsheets_2019.pdf  
+
+
+## Master File
+
+[EDA_PreWork](https://drive.google.com/file/d/1Hf5ZdDQik5UAtp90y3buFg7_U8n-amUG/view?usp=sharing)
