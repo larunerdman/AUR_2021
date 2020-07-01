@@ -65,18 +65,24 @@ Pre-work including programs to install and practice exercises can be found [here
 
 [Data](https://drive.google.com/open?id=1Gc_m6jR44_2w6G7OT2eh32Z9duLY1nt5)
 
+[Assignement_MASTER](https://drive.google.com/file/d/12ULzkwkDGXoIsH1qZ8NVSru43XHd527v/view?usp=sharing)
+
+[Tutorial_MASTER](https://drive.google.com/file/d/1d-yThhXOUlToczVKx3jOaDTC0-4ukXqG/view?usp=sharing)
 
 # Day 2 <a id="day2"></a>
 
 
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Lecture Clustering](https://drive.google.com/open?id=1HL9gWns8J2nFyhX4hWEWrv7vhM3DRjJ4)
+[Lecture Clustering](https://drive.google.com/file/d/1R6rqvL5XMs5b_w3MH7m9M920OL6HDWAI/view?usp=sharing)
 
-[Lecture Dimention](https://drive.google.com/open?id=1wUdtUaJXdH-p9CsmT7r5TNfHQ_7TzCcR)
+[Lecture Dimention](https://drive.google.com/file/d/1zt69K1JzzcbgcxFGC5BYG3nrAOcerrCX/view?usp=sharing)
 
 
 ## Exercices
+
+[MasterFile](https://drive.google.com/file/d/17-p4dFxhdqQ5gWl-IF4jr91EM3s_iw74/view?usp=sharing)
+
 
 ## Survey
 
