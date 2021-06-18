@@ -1,3 +1,3 @@
-# EDA_2020
+# AUR_2021
 
-Read me file for EDA 2020
+Read me file for AUR 2021
