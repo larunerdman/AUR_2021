@@ -3,7 +3,7 @@ layout: workshop_main_2day
 permalink: /AUR_2021
 title: AUR 2021
 header1: Workshop Pages for Students
-header2: Exploratory Analysis of Biological Data using R 2020
+header2: Analysis of Biological Data using R 2021
 image: /site_images/CBW_R_icon.jpg
 keywords: R and its analysis tools, plot and visualize data, use R and its analysis tools
 description: Course covered for this workshop are broadly relevant for many areas of modern, quantitative biology such as flow cytometry, expression profile analysis, function prediction and more. 
@@ -13,7 +13,7 @@ length: 2 days
 
 # Welcome <a id="welcome"></a>
 
-[Welcome](https://drive.google.com/open?id=19YtlbxmxAonyE9N-Zo4BL8XHpESd-NLb) to Exploratory Analysis of Biological Data using R.  
+ 
 
 The course schedule can be found [here](https://bioinformaticsdotca.github.io/AUR_2021_schedule). 
 
