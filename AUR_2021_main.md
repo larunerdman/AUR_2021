@@ -37,27 +37,22 @@ comming soon
 
 # Day 1 <a id="day1"></a>
 
-
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Lecture]()
+[Module 1 Slides](https://drive.google.com/file/d/1j4zJ1x8rwaR16fLsx4HH0X5M7UwmMTQV/view?usp=sharing)
 
-
-*<font color="#827e9c">Gabriela Morgenshtern</font>* 
-
-[Lecture]()
-
-## Exercices
-
-[Data1]()
+[Module 2 Slides](https://drive.google.com/file/d/1DveyiwYPCJOI5qM5ewgGH0V664mTizFB/view?usp=sharing)
 
 
 # Day 2 <a id="day2"></a>
 
-
 *<font color="#827e9c">Lauren Erdman</font>*
 
-[Lecture]()
+[Module 3 Slides]()
+
+*<font color="#827e9c">Gabriela Morgenshtern</font>* 
+
+[Module 4 Slides]()
 
 
 ## Exercices
